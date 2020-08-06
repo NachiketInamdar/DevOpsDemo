@@ -4,7 +4,8 @@ Function1()
  {  
    //Some Code
  }
-Function3()
+Function2()
+>>>>>>> featureA
 {
   //some code
 }
