@@ -4,7 +4,7 @@ Function1()
  {  
    //Some Code
  }
-Function2()
+Function4()
 {
   //some code
 }
